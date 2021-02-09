@@ -1,2 +1,2 @@
-# Code-Refactor
-Homework Assignment 
+Some of the changes I have made have been interesting, When it came to understanding the selectors I struggled. I was still able to complete the identical copy of the image but it was at the expense of the integrity of my code. When it came to using h2 in CSS it ended up modifying all my text. Due to time I was not able to clean this up in my css for semantics purposes but it still functions and the formatting and understanding were what I was really striving to do. Adding breaks also gave me more of a closer look even though it most likely had to do with the padding. It still worked but im sure there is an easier solution.
+SWYFT-JPJJ-316V
